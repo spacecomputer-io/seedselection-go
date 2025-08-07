@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/spacecomputerio/seedselection-go/pkg/rng"
+	"github.com/spacecomputer-io/seedselection-go/pkg/rng"
 	"github.com/stretchr/testify/require"
 )
 

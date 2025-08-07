@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	seedselection "github.com/spacecomputerio/seedselection-go/pkg/core"
+	seedselection "github.com/spacecomputer-io/seedselection-go/pkg/core"
 )
 
 func main() {

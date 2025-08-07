@@ -1,4 +1,4 @@
-module github.com/spacecomputerio/seedselection-go
+module github.com/spacecomputer-io/seedselection-go
 
 go 1.24.1
 

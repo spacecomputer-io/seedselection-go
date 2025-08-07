@@ -2,9 +2,9 @@
 
 **WARNING: This project is experimental and work-in-progress, use at your own risk!**
 
-![Build & Test (Core)](https://github.com/spacecomputerio/seedselection-go/actions/workflows/build_test.yml/badge.svg?branch=main)
-[![Go Report Card](https://goreportcard.com/badge/github.com/spacecomputerio/seedselection-go)](https://goreportcard.com/report/github.com/spacecomputerio/seedselection-go)
-[![Go Reference](https://pkg.go.dev/badge/github.com/spacecomputerio/seedselection-go.svg)](https://pkg.go.dev/github.com/spacecomputerio/seedselection-go)
+![Build & Test (Core)](https://github.com/spacecomputer-io/seedselection-go/actions/workflows/build_test.yml/badge.svg?branch=main)
+[![Go Report Card](https://goreportcard.com/badge/github.com/spacecomputer-io/seedselection-go)](https://goreportcard.com/report/github.com/spacecomputer-io/seedselection-go)
+[![Go Reference](https://pkg.go.dev/badge/github.com/spacecomputer-io/seedselection-go.svg)](https://pkg.go.dev/github.com/spacecomputer-io/seedselection-go)
 
 ## Overview
 
@@ -29,8 +29,8 @@ import (
     "fmt"
     "log"
 
-	seedselection "github.com/spacecomputerio/seedselection-go/pkg/core"
-    // seedselection_rng "github.com/spacecomputerio/seedselection-go/pkg/rng"
+	seedselection "github.com/spacecomputer-io/seedselection-go/pkg/core"
+    // seedselection_rng "github.com/spacecomputer-io/seedselection-go/pkg/rng"
 )
 
 func main() {
